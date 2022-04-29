@@ -754,7 +754,7 @@ global.dfail = (type, m, conn) => {
     if (msg) return conn.reply(m.chat, msg, m, { contextInfo: { externalAdReply: {title: global.wm, body: '404 Access denied ✘', sourceUrl: global.snh, thumbnail: fs.readFileSync('./thumbnail.jpg') }}})
     
     let msgg = {
-    	unreg: 'Halo kak ! 👋\nAnda belum terdaftar didalam Database BOT 🗂️\n\nKlick Tombol dibawah Untuk Mendaftar Ke Database BOT !'
+    	unreg: 'Halo kak ! 👋\nKamu belum terdaftar didalam Database BOT 🗂️\n\nKlick Tombol dibawah Untuk Mendaftar Ke Database BOT !/Ketik:#daftar <nama> <umur>'
 }[type]
 if (msgg) return conn.sendHydrated(m.chat, msgg, global.wm, null, global.sgc, '🌎 Join My Group Official', `${m.sender.split`@`[0]}`, '🌹 U S E R', [
       ['▣ VERIFY ▣', '/daftar'],
