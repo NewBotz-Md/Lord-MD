@@ -61,8 +61,8 @@ const listMessage = {
   if (!name) throw 'Nama tidak boleh kosong (Alphanumeric)'
   if (!age) throw 'Umur tidak boleh kosong (Angka)'
   age = parseInt(age)
-  if (age > 30) throw 'WOI TUA (。-`ω´-)'
-  if (age < 5) throw 'Halah dasar bocil'
+  if (age > 30) throw 'Ketuaan Oii 🤣'
+  if (age < 5) throw 'Masi Bayi Bisa Nulis Format Njirr ._.'
   user.name = name.trim()
   user.age = age
   user.regTime = + new Date
