@@ -12,24 +12,24 @@
 <p align="center">
 <a href="https://github.com/kannachann"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Kanna-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
-<a href="https://github.com/kannachann/KannaBOT-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/kannachann/KannaBOT-MD?label=Forks&color=blue&style=flat-square"></a>
-<a href="https://github.com/kannachann/KannaBOT-MD/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/kannachann/KannaBOT-MD?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/kannachann/KannaBOT-MD/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/kannachann/KannaBOT-MD?label=Stars&color=yellow&style=flat-square"></a>
-<a href="https://github.com/kannachann/KannaBOT-MD/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/kannachann/KannaBOT-MD?label=Contributors&color=blue&style=flat-square"></a>
-<a href="https://github.com/kannachann/KannaBOT-MD/issues"><img title="Issues" src="https://img.shields.io/github/issues/kannachann/KannaBOT-MD?label=Issues&color=success&style=flat-square"></a>
-<a href="https://github.com/kannachann/KannaBOT-MD/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/kannachann/KannaBOT-MD?label=Issues&color=red&style=flat-square"></a>
+<a href="https://github.com/AmmarrBN/Lord-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/kannachann/KannaBOT-MD?label=Forks&color=blue&style=flat-square"></a>
+<a href="https://github.com/AmmarrBN/Lord-MD /watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/kannachann/KannaBOT-MD?label=Watchers&color=green&style=flat-square"></a>
+<a href="https://github.com/AmmarrBN/Lord-MD/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/kannachann/KannaBOT-MD?label=Stars&color=yellow&style=flat-square"></a>
+<a href="https://github.com/AmmarrBN/Lord-MD/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/AmmarrBN/Lord-MD?label=Contributors&color=blue&style=flat-square"></a>
+<a href="https://github.com/AmmarrBN/Lord-MD/issues"><img title="Issues" src="https://img.shields.io/github/issues/kannachann/KannaBOT-MD?label=Issues&color=success&style=flat-square"></a>
+<a href="https://github.com/AmmarrBN/Lord-MD/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/kannachann/KannaBOT-MD?label=Issues&color=red&style=flat-square"></a>
 <a href="https://github.com/kannachann/KannaBOT-MD/pulls"><img title="Pull Request" src="https://img.shields.io/github/issues-pr/kannachann/KannaBOT-MD?label=PullRequest&color=success&style=flat-square"></a>
 <a href="https://github.com/kannachann/KannaBOT-MD/pulls?q=is%3Apr+is%3Aclosed"><img title="Pull Request" src="https://img.shields.io/github/issues-pr-closed/kannachann/KannaBOT-MD?label=PullRequest&color=red&style=flat-square"></a>
 
 ---------
 ## ```Connect With Me 📞``` <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="32px">
-  <a href="https://wa.me/62831433937633">
+  <a href="https://wa.me/6288229683561">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
   <a href="https://www.tiktok.com/@knchann">
     <img align="left" alt="SIEGRIN | Titkok" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Tiktok.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://www.instagram.com/ppiowy_/">
+  <a href="https://www.instagram.com/lord_ammar_quoteser">
     <img align="left" alt="SIEGRIN | Instagram" width="24px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Instagram.svg" />
   </a> &nbsp;&nbsp;
   <a href="mailto:kannachann@gmail.com">
@@ -39,7 +39,7 @@
 
 ## ```Whatsapp``` <a href="https://wa.me/62831433937633"> <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
 [![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283143393763) 
-[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/62831433937633) 
+[![ONWER](https://img.shields.io/badge/Owner%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6288229683561) 
 [![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Hjr3H7l9iC8F2deP0cv6GT) 
 ---------
 
@@ -258,3 +258,4 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 * [`AmirulDev20`](https://github.com/amiruldev20)
 * [`Rasel Comel`](https://github.com/raselcomel)
 * [`Rominaru`](https://github.com/rominaru)
+* [`AmmarBN`](https://github.com/AmmarrBN)
