@@ -43,8 +43,8 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/ppiowy_'
-global.sgh = 'https://github.com/kannachann'
+global.sig = 'https://instagram.com/lord_ammar_quoteser'
+global.sgh = 'https://github.com/AmmarrBN'
 global.sgc = 'https://chat.whatsapp.com/EawZW6vp8gwG4uGt0r4Awa'
 global.sdc = 'https://discord.gg/WEJQjugTY7'
 global.snh = 'https://nhentai.net/g/365296/'
@@ -53,23 +53,23 @@ global.snh = 'https://nhentai.net/g/365296/'
 global.pdana = '085712420674'
 global.povo = '085712420674'
 global.pgopay = '085712420674'
-global.ppulsa = '085712420674'
-global.ppulsa2 = '083143393763'
+global.ppulsa = '087708773367'
+global.ppulsa2 = '088229683561'
 global.psaweria = 'https://saweria.com/kannabotz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283143393763'
-global.nomorown = '62831433937633'
-global.namebot = 'Kanna BOT'
-global.nameown = 'Letta - Sama'
+global.nomorbot = '6287708773367'
+global.nomorown = '6288229683561'
+global.namebot = 'Lord Botz'
+global.nameown = 'Ammar - Executed'
 
 
 /*============== STAFF ==============*/
 global.owner = [
   ['6283143393763'],
   ['6285712420674'],
-  ['18126338970'],
-  ['62831433937633', '❦ ℒℯ𝓉𝓉𝒶 - 𝒮𝒶𝓂𝒶', true]
+  ['6287708773367'],
+  ['6288229683561', '⌬ Ammar Ganz, true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -114,20 +114,20 @@ global.APIKeys = { // APIKey Here
 
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Ƙαnnα BOT あ⁩ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Ƙαnnα - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Ƙαnnα 𝗕𝗢𝗧'
+global.wm = '                「 Lord Botz ⁩㊣ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Lord - Khun˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ Lord 𝗕𝗢𝗧'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `⫹⫺ RPG BOT Whatsapp | By ${global.nameown}`
-global.author = '                「 Ƙαnnα BOT あ⁩ 」'
+global.author = '                「 Lord BOT あ⁩ 」'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/c73f47b440241b66cb9d3.jpg' //Main Thumbnail
+global.thumb = 'https://i.ibb.co/ccY2Q0k/20220429-191026.jpg' //Main Thumbnail
 global.imagebot = 'https://telegra.ph/file/793b6accf3758f092742a.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
-global.thumbs = ['https://telegra.ph/file/5a882b8558fd1d2bd03fa.jpg', 'https://telegra.ph/file/f87047ec6e5f0d4a9ea91.jpg', 'https://telegra.ph/file/88edbb01051b397574def.jpg','https://telegra.ph/file/7957630a57078c5ec0400.jpg']
+global.thumbs = ['https://i.ibb.co/ccY2Q0k/20220429-191026.jpg', 'https://telegra.ph/file/f87047ec6e5f0d4a9ea91.jpg', 'https://telegra.ph/file/88edbb01051b397574def.jpg','https://telegra.ph/file/7957630a57078c5ec0400.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
 /*============== HENTAI ==============*/ 
@@ -188,7 +188,7 @@ global.htjava = '⫹⫺' //hiasan Doang :v
 
 /*============== STICKER WM ==============*/
 global.stickpack = '.'
-global.stickauth = `☂︎\n𝗞\na\nn\nn\na\n-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
+global.stickauth = `☂︎ Lord Botz\n⫹⫺ Whatsapp BOT\nwa.me/${global.nomorbot}`
 
 global.multiplier = 38 // The higher, The harder levelup
 
