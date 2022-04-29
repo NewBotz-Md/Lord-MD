@@ -16,7 +16,7 @@ const { name, author } = require(join(__dirname, './package.json')) // https://w
 const { say } = cfonts
 const rl = createInterface(process.stdin, process.stdout)
 
-say('KANNABOT\nMD', {
+say('LORDBOT\nMD', {
   font: 'block',
   align: 'center',
   colors: ['blue']
@@ -41,12 +41,12 @@ function start(file) {
     align: 'center',
     colors: ['magenta']
   })
-  say('🌎 MEMUAT SOURCE...', {
+  say('🌎 LOADING SOURCE...', {
     font: 'console',
     align: 'center',
     colors: ['green']
   })
-  say('📑 MEMUAT PLUGINS...', {
+  say('📑 LOADING PLUGINS...', {
     font: 'console',
     align: 'center',
     colors: ['green']
