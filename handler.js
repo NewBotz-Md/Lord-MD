@@ -675,7 +675,7 @@ export async function participantsUpdate({ id, participants, action }) {
                         //this.sendFile(id, pp, 'pp.jpg', text, null, false, { mentions: [user] })
     this.sendHydrated(id, text, wm + '\n\n' + botdate, pp, sgc, (action == 'add' ? '💌 WELCOME' : '🐾 BYE'), user.split`@`[0], '🌹 USER', [
       ['MENU 🎀', '/menu'],
-      ['\n\nSAYA PEDO DAN SAYA BANGGA (≧▽≦)', '...'],
+      ['\n\nSAYA GANZ DAN SAYA BANGGA (≧▽≦)', '...'],
       [null, null]
     ], null, false, { mentions: [user] })
                     }
@@ -741,14 +741,14 @@ Untuk mematikan fitur ini, ketik
 
 global.dfail = (type, m, conn) => {
     let msg = {
-        rowner: '[ ❗ ] Only Developer',
-        owner: '[ ❗ ] Only Owner',
-        mods: '[ ❗ ] Only Moderator',
-        premium: '[ ❗ ] Only Premium Users',
-        group: '[ ❗ ] Only Group Chat',
-        private: '[ ❗ ] Only Private Chat',
-        admin: '[ ❗ ] Only Admin Group',
-        botAdmin: '[ ❗ ] Only Bot Admin',
+        rowner: '[ ❗ ] Maaf Menu Ini Khusus Developer',
+        owner: '[ ❗ ] Maaf Menu Ini Khusus Owner',
+        mods: '[ ❗ ] Maaf Menu Ini Khusus Moderator',
+        premium: '[ ❗ ] Maaf Menu Ini Khusus Premium Users',
+        group: '[ ❗ ] Maaf Menu Ini Khusus Group Chat',
+        private: '[ ❗ ] Maaf Menu Ini Khusus Private Chat',
+        admin: '[ ❗ ] Maaf Menu Ini Khusus Admin Group',
+        botAdmin: '[ ❗ ] Maaf Menu Ini Khusus Bot Admin',
         restrict: '[ ❗ ] This Fitur Disable'
     }[type]
     if (msg) return conn.reply(m.chat, msg, m, { contextInfo: { externalAdReply: {title: global.wm, body: '404 Access denied ✘', sourceUrl: global.snh, thumbnail: fs.readFileSync('./thumbnail.jpg') }}})
