@@ -9,6 +9,7 @@
 // • Kannachann
 // • The.sad.Boy01
 // • Rasel comel
+// • Ammar Executed
 // • Xtreshe (Beban)
 // • Dll
 
@@ -45,8 +46,8 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 global.sig = 'https://instagram.com/lord_ammar_quoteser'
 global.sgh = 'https://github.com/AmmarrBN'
-global.sgc = 'https://chat.whatsapp.com/EawZW6vp8gwG4uGt0r4Awa'
-global.sdc = 'https://discord.gg/WEJQjugTY7'
+global.sgc = 'https://chat.whatsapp.com/BYcW7rue6fA8gNdyLPedDe'
+global.sdc = '-'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
