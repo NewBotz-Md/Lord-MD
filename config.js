@@ -11,6 +11,7 @@
 // • Rasel comel
 // • Ammar Executed
 // • Xtreshe (Beban)
+// • DaniBotz Team
 // • Dll
 
 //[!] Jangan Dihapus, mending ditambahin 
@@ -46,31 +47,31 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
 global.sig = 'https://instagram.com/lord_ammar_quoteser'
 global.sgh = 'https://github.com/AmmarrBN'
-global.sgc = 'https://chat.whatsapp.com/BYcW7rue6fA8gNdyLPedDe'
+global.sgc = 'https://chat.whatsapp.com/BiJs5Xl4oJA1Ama5BahUwd'
 global.sdc = '-'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085712420674'
-global.povo = '085712420674'
-global.pgopay = '085712420674'
-global.ppulsa = '087708773367'
-global.ppulsa2 = '088229683561'
+global.pdana = '081251549899'
+global.povo = '081352848936'
+global.pgopay = '081352848936'
+global.ppulsa = '081251549899'
+global.ppulsa2 = '081352848936'
 global.psaweria = 'https://saweria.com/kannabotz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6287708773367'
-global.nomorown = '6288229683561'
-global.namebot = 'Lord Botz'
-global.nameown = 'Ammar - Executed'
+global.nomorbot = '6282122977451'
+global.nomorown = '6281251549899'
+global.namebot = 'Dani Botz'
+global.nameown = 'Dani - Executed'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283143393763'],
-  ['6285712420674'],
-  ['6287708773367'],
-  ['6288229683561', '⌬ Ammar Ganz', true]
+  ['6281251549899'],
+  ['6281251549899'],
+  ['6281251549899'],
+  ['6281251549899', '⌬ Dani Ganz', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -115,13 +116,13 @@ global.APIKeys = { // APIKey Here
 
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Lord Botz ⁩㊣ 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Lord - Khun˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Lord 𝗕𝗢𝗧'
+global.wm = '                「 Dani Botz ⁩㊣ 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Dani - Khun˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ Dani 𝗕𝗢𝗧'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `⫹⫺ RPG BOT Whatsapp | By ${global.nameown}`
-global.author = '                「 Lord BOT あ⁩ 」'
+global.author = '                「 Dani BOT あ⁩ 」'
 
 
 /*============== LOGO ==============*/
