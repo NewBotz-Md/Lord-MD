@@ -126,7 +126,7 @@ global.author = '                「 Dani BOT あ⁩ 」'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://i.ibb.co/ccY2Q0k/20220429-191026.jpg' //Main Thumbnail
+global.thumb = 'https://telegra.ph/file/0fca9b527eb45f834bbfb.jpg' //Main Thumbnail
 global.imagebot = 'https://telegra.ph/file/793b6accf3758f092742a.jpg'
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 global.thumbs = ['https://i.ibb.co/ccY2Q0k/20220429-191026.jpg', 'https://telegra.ph/file/f87047ec6e5f0d4a9ea91.jpg', 'https://telegra.ph/file/88edbb01051b397574def.jpg','https://telegra.ph/file/7957630a57078c5ec0400.jpg']
